@@ -1,6 +1,6 @@
 
-<h1>Hi 👋, I'm Rajiv</h1>
-<h3>A passionate laravel website developer.</h3>
+<h1 align="left">Hi 👋, I'm Rajiv</h1>
+<h3 align="left">A passionate laravel website developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
