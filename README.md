@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Rajiv</h1>
+<h1 align="left">Hi 👋, I'm Rajib</h1>
 <h3 align="left">A passionate laravel website developer.</h3>
 
 
